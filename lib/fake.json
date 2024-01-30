@@ -1,0 +1,102 @@
+[
+    {
+        "collegeName": "CHITTAGONG COLLEGE",
+        "event": [
+            "Nature Club",
+            "Rover Scout",
+            "Drama Club",
+            "Creative Club",
+            "Debate Club"
+        ],
+        "description": "This institution was born in 1836 as Chittagong District School. Thirty-three years after its establishment in 1869, it was upgraded to a higher secondary school. Since then it has been known as Chittagong Government College or Chittagong College. The activities of this college started in a Portuguese period structure in one corner of the parade ground next to the college road in Chawkbazar of Chittagong. After being promoted to the college, Mr. JC Bose was appointed as its first principal. From the year 1909, science department was started at higher secondary level along with arts department in this college. In 1910, this college got recognition as a first class degree college from the then Calcutta University. Accordingly, teaching of undergraduate and graduate (Honours) level subjects in Mathematics, Chemistry and Physics is started from this college. From 1919, English was added to undergraduate subjects and philosophy and economics were added to supplementary subjects. Shamsul Ulama Kamaluddin Ahmad became the first Muslim principal of this college in 1924. The college flourished rapidly during his tenure. A, K, Fazlul Haque laid the foundation stone of the Muslim Hostel in Sher-e-Bangla at this time. The custom of publishing e-college magazine started during Shamsul Ulama's time. The most notable event of his time was the introduction of co-education. The first hostel of this college was established in 1926.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/collegeadmission-42d1f.appspot.com/o/colleges%2FctgGovt%2Fheader.jpg?alt=media&token=1ea1aad6-60cd-4ba9-840b-62def79fe716",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/collegeadmission-42d1f.appspot.com/o/colleges%2FctgGovt%2Fctgclg-top.png?alt=media&token=7482474c-b662-4142-99ec-022636aaa259",
+        "admissionDate": {
+            "start": "10-02-20",
+            "end": "12-05-20"
+        },
+        "departments": [
+            "Bangla",
+            "English",
+            "Hostory",
+            "History and Culture of Islam",
+            "philosophy",
+            "medical center",
+            "Arabic and E. Education",
+            "sanskrit",
+            "Economics",
+            "Political Science",
+            "FLTC",
+            "Sociology",
+            "physics",
+            "chemistry",
+            "mathematics"
+        ],
+        "admissonNotice": "",
+        "location": "Chawkbazar chittagong"
+    },
+    {
+        "collegeName": "Government City College",
+        "event": [
+            "Career Club",
+            "Language Scout",
+            "Drama Club",
+            "Creative Club",
+            "Debate Club"
+        ],
+        "description": "For the flourishment of human life two things are equally important – one is family and the other is educational institution. Besides developing the latent talents of a student, an educational institution makes him prepared to face the challenges of life. In this regard, a quality institution ensures a successful life both for the teacher and the taught. Govt. City College, Chittagong is one of the highest seats of learning in the country. Here students get ample opportunities to acquire knowledge and updated information so that they can win the laurel in their practical life.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/collegeadmission-42d1f.appspot.com/o/colleges%2FctgGovt%2FWeb-Banner-01.png?alt=media&token=77946f4a-e0cd-4cc2-8b42-56307dfae722",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/collegeadmission-42d1f.appspot.com/o/colleges%2FctgGovt%2Fcropped-Logo-12.png?alt=media&token=6df8bb4e-bee5-4db7-b564-d0c6c8324ab1",
+        "admissionDate": {
+            "start": "10-02-20",
+            "end": "12-05-20"
+        },
+        "departments": [
+            "philosophy",
+            "medical center",
+            "Arabic and E. Education",
+            "sanskrit",
+            "Economics",
+            "Political Science",
+            "FLTC",
+            "Sociology",
+            "physics",
+            "chemistry",
+            "mathematics"
+        ],
+        "admissonNotice": "",
+        "location": "Chawkbazar chittagong"
+    },
+    {
+        "collegeName": "Government Hazi Muhammad Mohsin College",
+        "event": [
+            "Career Club",
+            "Language Scout",
+            "Drama Club",
+            "Creative Club",
+            "Debate Club"
+        ],
+        "description": "The present world firmly relies on a robust technological foundation; and the onset of internet has made globalization a success. Hence, becoming a tech-savvy has become in vogue rather than phobia. In line with the progress of the ever changing world via information and technology, Bangladesh Government has launched a country-wide program of using website in every alma mater with the motto of easy access to internet facilities. It is my pleasure to convey my heartiest felicitation to our Government for arranging such a program. It is unequivocally a laudable step to turning the vision of Digital Bangladesh into a reality. Website launching will certainty usher in a new era in the history of glory and flourish of this college. Eventually, I would like to express my best compliments to those members of website committee who relentlessly worked for launching website in this college. I wish all about success of the program.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/collegeadmission-42d1f.appspot.com/o/colleges%2FctgGovt%2F2019-01-26.jpg?alt=media&token=874eb54c-537f-48b6-a2dc-0ee61911eef5",
+        "logo": "https://firebasestorage.googleapis.com/v0/b/collegeadmission-42d1f.appspot.com/o/colleges%2FctgGovt%2Fheading1.png?alt=media&token=16850ecb-070c-48a9-aeb2-04ffe068de02",
+        "admissionDate": {
+            "start": "10-02-20",
+            "end": "12-05-20"
+        },
+        "departments": [
+            "philosophy",
+            "medical center",
+            "Arabic and E. Education",
+            "sanskrit",
+            "Economics",
+            "Political Science",
+            "FLTC",
+            "Sociology",
+            "physics",
+            "chemistry",
+            "mathematics"
+        ],
+        "admissonNotice": "",
+        "location": "Chawkbazar chittagong"
+    }
+]

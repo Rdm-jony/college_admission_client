@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845408108695",
+    "project_id": "collegeadmission-42d1f",
+    "storage_bucket": "collegeadmission-42d1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845408108695:android:5f90042713c2d0ad09e9d2",
+        "android_client_info": {
+          "package_name": "com.example.college_admission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845408108695-ifr1b0a3ri3vu9j33ak8r49ajbjbk3rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeYdYZTmLh_eRiNzw5JlkX5MXiiNt9_5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845408108695-ifr1b0a3ri3vu9j33ak8r49ajbjbk3rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
